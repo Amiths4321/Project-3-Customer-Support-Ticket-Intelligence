@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset - do not upload raw images
+data/raw/
+
+# Temporary and system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Local environment and secrets
+.env
